@@ -1,4 +1,4 @@
-
+[English] (https://github.com/wellcouto/wellcouto/blob/main/README_EN.md)
 
 ### Olá, Pessoa 👋
 
