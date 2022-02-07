@@ -2,8 +2,11 @@
 
 ### Olá, Pessoa 👋
 
-- 🔭 Atualmente sou estudande de Analise e Desenvolvimento de Sistemas(2022)
+- 🔭 Atualmente sou estudande de Analise e Desenvolvimento de Sistemas (2022)
+- 📜 Bacharel em Relações Internacionais
 - 📚 Estudando Python, HTML e SQL
+- ✅ Disponivel para projetos e aprendizado
+
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Well-Python" height="30" width="40" 
