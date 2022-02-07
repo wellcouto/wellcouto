@@ -2,6 +2,9 @@
 
 - 🔭 I am currently a Systems Analysis and Development student(2022)
 - 📚 Studying Python, HTML and SQL
+- 🔎 Knoledge in Adobe Photoshop an Illustrator
+- 📜 Bachelor of International Relations
+- ✅ Available for projects and learning
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Well-Python" height="30" width="40" 
