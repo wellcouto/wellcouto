@@ -3,8 +3,9 @@
 ### Olá, Pessoa 👋
 
 - 🔭 Atualmente sou estudande de Analise e Desenvolvimento de Sistemas (2022)
-- 📜 Bacharel em Relações Internacionais
 - 📚 Estudando Python, HTML e SQL
+- 🔎 Conhecimentos em Adobe Photoshop e Illustrator
+- 📜 Bacharel em Relações Internacionais
 - ✅ Disponivel para projetos e aprendizado
 
 ##
