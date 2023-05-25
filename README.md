@@ -3,7 +3,7 @@
 ### Olá, Pessoa 👋
 
 - 🔭 Atualmente sou estudande de Analise e Desenvolvimento de Sistemas (2022)
-- 📚 Estudando Python, HTML e SQL
+- 📚 Sou Dev Junior (em progresso)
 - 🔎 Conhecimentos em Adobe Photoshop e Illustrator
 - 📜 Bacharel em Relações Internacionais
 - ✅ Disponivel para projetos e aprendizado
