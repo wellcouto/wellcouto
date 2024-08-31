@@ -2,10 +2,9 @@
 
 ### Olá, Pessoa 👋
 
-- 🔭 Atualmente sou estudande de Analise e Desenvolvimento de Sistemas (2022)
-- 📚 Sou Dev Junior (em progresso)
-- 🔎 Conhecimentos em Adobe Photoshop e Illustrator
-- 📜 Bacharel em Relações Internacionais
+- 🔭 Analista  e Desenvolvedor de softwares e sistemas 
+- 📚 Sou Dev Junior 
+- 🔎 Conhecimentos em  Python; Django; Javascript; HTML; CSS; Bootstrap; React; React.js; Node.js; Typescript; Flutter; API REST; API RESTful; SQL; Banco de dados; Android;
 - ✅ Disponivel para projetos e aprendizado
 
 ##
