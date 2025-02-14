@@ -72,15 +72,6 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&count_private=true&hide=stars"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=6&theme=dracula"/>
-</p>
-
----
-
 ⭐ **Se gostou do meu perfil, deixe um star nos repositórios que achou interessante!** 😊✨
 
 
