@@ -15,6 +15,7 @@
 - 🔥 Desenvolvedor **Full Stack** com foco em **Python, Django, React e Flutter**.
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e **Relações Internacionais**.
 - 🏛️ Experiência como estagiário na **Câmara Legislativa do DF** e no **Senado Federal**.
+- 🖥️ Atualmente atuo como **Developer Full-Stack Freelancer**.
 - 🎯 Apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de software de alto impacto.
 
 <div>
