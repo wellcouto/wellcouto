@@ -72,7 +72,6 @@
 
 ---
 
-⭐ **If you like my profile, leave a star on the repositories you find interesting!** 😊✨
 
 
 ##
