@@ -78,6 +78,6 @@
 
 ---
 
-⭐ **Se gostou do meu perfil, deixe um star nos repositórios que achou interessante!** 😊✨
+
 
 
